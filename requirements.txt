@@ -1,0 +1,10 @@
+streamlit
+streamlit-molstar
+openmm
+mdanalysis
+matplotlib
+numpy
+pandas
+scikit-learn
+plotly
+requests
